@@ -33,7 +33,7 @@ A responsive, full stack calculator application built with **Spring Boot** (Java
 
 ## 📂 Project Structure
 
-'''text
+```text
 FullStackCalculator/
 ├── backend/ # Spring Boot backend
 │ └── src/
@@ -52,7 +52,7 @@ FullStackCalculator/
 │ ├── Multiplication.png
 │ └── Division.png
 ---
-
+```
 
 ## 🚀 Running the App
 
@@ -77,17 +77,22 @@ npm run dev
 ```
 Frontend runs on:
 📍 http://localhost:5173
+
 ---
 
 ##📡 API Endpoint
 POST /api/calculator/calculate
 | In Postman | ![Backend status](./images/Backendstatus.png) |
+
 ---
+
 ##🔐 CORS Configuration
 
 The backend allows requests from the frontend using:
 @CrossOrigin(origins = "http://localhost:5173")
+
 ---
+
 ##💻 Author
 Developed by Madhuchhanda Das aka latenightcoder-git as part of a full-stack project with Spring Boot and React.
 
