@@ -82,17 +82,17 @@ Frontend runs on:
 
 ##📡 API Endpoint
 POST /api/calculator/calculate
-| In Postman | ![Backend status](./images/Backendstatus.png) |
+| In Postman | ![Backend status](./images/BackendStatus.png) |
 
 ---
 
-##🔐 CORS Configuration
+🔐 CORS Configuration
 
 The backend allows requests from the frontend using:
 @CrossOrigin(origins = "http://localhost:5173")
 
 ---
 
-##💻 Author
+💻 Author
 Developed by Madhuchhanda Das aka latenightcoder-git as part of a full-stack project with Spring Boot and React.
 
