@@ -1,0 +1,28 @@
+/* src/App.css */
+body {
+  background: #1f2937;
+  color: white;
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  background: #374151;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+input, select, button {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  background-color: #3b82f6;
+  color: white;
+  cursor: pointer;
+}
